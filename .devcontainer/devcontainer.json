@@ -1,0 +1,6 @@
+{
+	"name": "Personal Page",
+	"dockerComposeFile": "docker-compose.yml",
+	"service": "workspace",
+	"workspaceFolder": "/workspace"
+}
